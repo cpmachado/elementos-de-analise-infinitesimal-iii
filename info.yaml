@@ -1,0 +1,14 @@
+codigo: 21032
+nome: Elementos de Análise Infinitesimal III
+ano_lectivo: 2023
+semestre: 1
+ano: 2
+docente: Fernando Pestana da Costa
+tema:
+  - nome: Integrais de Riemann em Rn
+    codigo: 1
+    subtema:
+      - nome: Revisões de Cálculo Diferencial
+        codigo: 1.1
+      - nome: Funções integráveis
+        codigo: 1.2
